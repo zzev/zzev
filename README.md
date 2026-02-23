@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Zeta
 
-Software engineer with 15+ years building stuff. I've been through startups, led engineering teams, and spent way too many hours writing code. These days I'm freelancing and working on my own projects.
+Software engineer with 15+ years building stuff. I've been through startups, led engineering teams, and spent way too many hours writing code. These days I'm working on AI voice agents as well as my own projects.
 
 ```javascript
 const zeta = {
